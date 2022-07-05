@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Vue.js Repo https://github.com/GarlicBuns19/Vue_JS_Workshop
+- 🌱 I’m currently learning Vue.js
 - 😅 Busy with PokeDex
 
 <!--
