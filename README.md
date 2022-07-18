@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Vue.js
-- 😅 Busy with PokeDex
+- 🔭 Busy with Super Hero
 
 <!--
 **GarlicBuns19/GarlicBuns19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
