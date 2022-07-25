@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Vue.js
-- 🔭 Bust with Vue Portfolio
+- 🌱 I’m currently learning Node Js
+- 🔭 Busy with Vue Js and Javascript (continue learning)
 
 <!--
 **GarlicBuns19/GarlicBuns19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
