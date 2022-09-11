@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ra'ees Benny</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-- 🔭 I’m currently working on **A capstone project**
+- 🔭 I’m currently working on **A capstone project** [https://github.com/GarlicBuns19/GPU-Land-frontend]
 
 - 🌱 I’m currently learning **Node.js , Vue.js , Express.js**
 
