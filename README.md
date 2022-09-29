@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A capstone project** [https://github.com/GarlicBuns19/GPU-Land-frontend]
 
-- 🌱 I’m currently learning **Node.js , Vue.js , Express.js**
+- 🌱 I’m currently learning **Vuetify**
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
