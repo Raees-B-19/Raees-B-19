@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently upskilling
 
-- 🌱 I’m currently learning **Vuetify**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
 - 🤝 I’m looking for help with **Nothing at the moment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/GarlicBuns19](https://github.com/GarlicBuns19)
 
 - 💬 Ask me about **Nothing at the moment**
 
