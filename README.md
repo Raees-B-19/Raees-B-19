@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently upskilling
 
-- 🌱 I’m currently learning **Php, Twig, React, , Jquery, Docker, Gimp**
+- 🌱 I’m currently learning *React, Docker**
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
