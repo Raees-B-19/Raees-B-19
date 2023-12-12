@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Nothing at the moment**
 
-//- 📫 How to reach me **https://www.linkedin.com/in/ra-ees-benny-a915a923a/**
+- 📫 How to reach me **Nothing at the moment**
 
 - ⚡ Fun fact **I know how to build a computer**
 
