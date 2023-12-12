@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently upskilling
 
-- 🌱 I’m currently learning *React, Docker**
+- 🌱 I’m currently learning *Docker**
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
