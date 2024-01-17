@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ra'ees Benny</h1>
-<h3 align="center">Intern Software Developer</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 - 🔭 I’m currently upskilling
 
