@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently upskilling
 
-- 🌱 I’m currently learning *Next Js, Tailwind**
+- 🌱 I’m currently learning *Tailwind**
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
