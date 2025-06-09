@@ -57,4 +57,3 @@ I have a **calm demeanor** and **strong work ethic**. I'm dedicated to deliverin
 * Learning Godot
 * Reading books related to life
 * Gardening
-* DIY
