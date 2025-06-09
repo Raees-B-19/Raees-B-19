@@ -1,18 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ra'ees Benny</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Junior Software Engineer / Support Engineer</h3>
 
 - 🔭 I’m currently upskilling
 
-- 🌱 I’m currently learning **GO** / **Flutter**
-
-- 👯 I’m looking to collaborate on **Nothing at the moment**
-
-- 🤝 I’m looking for help with **Nothing at the moment**
-
-- 💬 Ask me about **Nothing at the moment**
-
-- 📫 How to reach me **Nothing at the moment**
+- 🌱 I’m currently learning **Solution Design** / **Godot**
 
 - ⚡ Fun fact **I know how to build a computer**
 
