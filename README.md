@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Ra'ees Benny**!
 
-Junior Software Engineer / Support Engineer
+Mid Software Engineer / Support Engineer
 
 ---
 
@@ -18,6 +18,7 @@ I have a **calm demeanor** and **strong work ethic**. I'm dedicated to deliverin
 * AWS
 * Clockify
 * Confluence
+* Draw io
 * Gmail
 * GitHub
 * Infobip | Bots | IVR | CDP
